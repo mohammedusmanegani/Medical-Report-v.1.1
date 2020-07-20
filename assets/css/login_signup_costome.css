@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    min-height: 100vh;
+}
+
+.important-field{
+    color: red;
+    font-size: 20px;
+}
